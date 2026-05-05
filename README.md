@@ -21,7 +21,7 @@ Follow the Vencord guide here: [How to Install Custom Plugins](https://docs.venc
 
 Then you can clone this repository directly into your `vencord/src/userplugins/` directory and you can Enable **Encryption Master** in your Vencord Plugins.
 
-*You can also check out [This discord Message](https://discord.com/channels/1015060230222131221/1257038407503446176) on the vencord discord server*
+*You can also check out [This discord Message](https://discord.com/channels/1015060230222131221/1257038407503446176) in the vencord discord server*
 
 > [!IMPORTANT]
 > Change the default password and salt in the Plugin Settings to one that you and your group decide on
